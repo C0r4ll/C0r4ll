@@ -22,7 +22,7 @@ No Activity Tracked This Week
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=c0r4ll&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=c0r4ll&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=c0r4ll">
 </p>
 
 </details>
