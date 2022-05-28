@@ -1,5 +1,5 @@
 ## Hi 👋 I am Marlon!
-I am a developer who is interested in stuff like Game Development or engineering. Few tech that I enjoy working in are Python, C#, Java and Pytorch.
+I am a developer who is interested in stuff like Game Development or engineering. Few tech that I enjoy working in are Python, C# and Java.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Java, Game Delevopment, Web Design and Machine learning.
 ---
